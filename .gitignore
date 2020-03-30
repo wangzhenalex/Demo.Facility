@@ -7,3 +7,5 @@
 /packages
 /Demo.Facility.Test/obj/Debug
 /Demo.Facility/Demo.Facility.csproj.user
+/Demo.Facility/bin/Debug
+/Demo.Facility.Test/bin/Debug
